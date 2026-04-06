@@ -56,3 +56,12 @@ De la Serna Tuya, J. M. (2026). *NeuroAI Repositories: Biological and Artificial
 
 ## License
 CC BY 4.0 — You may share and adapt with appropriate credit.
+
+## How to Cite
+
+If you use this repository in your research, please cite:
+
+> de la Serna, J. M. (2026). *Neuroai Repositories Biological Artificial Neural Networks*. Universidad Internacional de La Rioja (UNIR).
+> https://github.com/juanmoisesd/neuroai-repositories-biological-artificial-neural-networks 
+
+See `CITATION.cff` for formatted references.
